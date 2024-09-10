@@ -373,10 +373,6 @@ header .container {
 	background-color: var(--accent-blue-light);
 }
 
-.header-card__nav-light span {
-	border-bottom: 1px solid #000;
-}
-
 /* Dark colored nav buttons */
 .header-card__nav-dark {
 	background-color: #070707;
