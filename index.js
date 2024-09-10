@@ -34,9 +34,9 @@ navLinks.forEach(el => {
 
 
 /* Header Card: Weather */
-const defaultWeatherLocation = 'Kolkata';              //SEE HERE FOR FAULTS
-const apiWeatherKey = 'ADD OPENWEATHER KEY HERE';
-const apiWeather = `https://api.openweathermap.org/data/2.5/weather?q=${defaultWeatherLocation}&appid=${apiWeatherKey}&units=imperial`;
+const defaultWeatherLocation = 'Kolkata';             
+const apiWeatherKey = 'f795db33f59fdaeb9baa753df7a16640';
+const apiWeather = `https://api.openweathermap.org/data/2.5/weather?q=${defaultWeatherLocation}&appid=${apiWeatherKey}&units=metric`;
 
 async function getWeatherData() {
 	const weatherResponse = await fetch(apiWeather);
@@ -44,7 +44,7 @@ async function getWeatherData() {
 
 	/* Render Temperature */
 	const weatherEl = document.getElementById('weather');
-	weatherEl.textContent = `${Math.round(weatherData.main.temp)}°C`;   //SEE HERE FOR FAULTS
+	weatherEl.textContent = `${Math.round(weatherData.main.temp)}°C`; 
 
 	/* Render Icon */
 	getWeatherIcon(weatherData);
