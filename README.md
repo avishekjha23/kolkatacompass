@@ -1,4 +1,4 @@
-# Kolkata Compass
+# <img src="/assets/kolkataicon.png" width="32" height="32"> Kolkata Compass
 
 [https://kolkatacompass.netlify.app/]
 
