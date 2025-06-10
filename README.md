@@ -19,7 +19,7 @@ Integrated DistanceTo API (via Rapid API) and OpenWeather API to provide users w
 
 🌆 Design
 
-<img src=".assets/screenshots/1_HomePage.jpg" alt="Home Page" width="600">
+![Home](.assets/screenshots/1_HomePage.jpg)
 
 - Widget-based hero section showing current time and weather in Kolkata, flight duration & distance, and navigation menu
 - Fully responsive design with a clean, muted color palette
