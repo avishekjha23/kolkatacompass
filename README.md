@@ -20,6 +20,10 @@ Integrated DistanceTo API (via Rapid API) and OpenWeather API to provide users w
 🌆 Design
 
 <a href="https://kolkatacompass.netlify.app/" target="_blank"><img src="/assets/screenshots/1_HomePage.jpg" style="max-width: 100%;"></a>
+<a href="https://kolkatacompass.netlify.app/" target="_blank"><img src="/assets/screenshots/2_AboutKolkata.jpg" style="max-width: 100%;"></a>
+<a href="https://kolkatacompass.netlify.app/" target="_blank"><img src="/assets/screenshots/3_TopDestinations.jpg" style="max-width: 100%;"></a>
+<a href="https://kolkatacompass.netlify.app/" target="_blank"><img src="/assets/screenshots/4_HotelGuide.jpg" style="max-width: 100%;"></a>
+<a href="https://kolkatacompass.netlify.app/" target="_blank"><img src="/assets/screenshots/5_Footer.jpg" style="max-width: 100%;"></a>
 
 - Widget-based hero section showing current time and weather in Kolkata, flight duration & distance, and navigation menu
 - Fully responsive design with a clean, muted color palette
