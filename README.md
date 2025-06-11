@@ -3,8 +3,7 @@
 [https://kolkatacompass.netlify.app/]
 
 
-✈️ A responsive Travel Guide for Kolkata
-Developed a dynamic and responsive travel guide website for Kolkata using HTML, CSS, and JavaScript.
+✈️ A responsive Travel Guide Website for Kolkata, developed using HTML, CSS, and JavaScript.
 Integrated DistanceTo API (via Rapid API) and OpenWeather API to provide users with real-time flight durations, distances, and live weather updates.
 
 
